@@ -1,0 +1,493 @@
+{
+  "games": 60,
+  "a_score": 0.48333333333333334,
+  "candidate_score": 0.5166666666666666,
+  "a_wins": 29,
+  "b_wins": 31,
+  "draws": 0,
+  "elo_candidate_minus_current": 11.585478374126586,
+  "weights_a": "weights_init.txt",
+  "weights_b": "weights_gen1.txt",
+  "results": [
+    {
+      "game": 1,
+      "a_white": true,
+      "result": "1-0",
+      "plies": 35,
+      "a_score": 1.0,
+      "fen": "rnbB1bnr/8/1Nk5/p1pBp3/Pp1pN2p/3P4/1PP2PPP/1R1QKR2 b - - 2 19"
+    },
+    {
+      "game": 2,
+      "a_white": false,
+      "result": "0-1",
+      "plies": 8,
+      "a_score": 1.0,
+      "fen": "rnbqk2r/pppp1ppp/8/3Np3/2P1n3/1P6/P2PPbPP/1RBQKBNR w Kkq - 0 6"
+    },
+    {
+      "game": 3,
+      "a_white": true,
+      "result": "1-0",
+      "plies": 45,
+      "a_score": 1.0,
+      "fen": "2R1k3/8/6N1/1P2pBNp/p7/4P3/1P1P1KPP/3Q3R b - - 1 24"
+    },
+    {
+      "game": 4,
+      "a_white": false,
+      "result": "1-0",
+      "plies": 47,
+      "a_score": 0.0,
+      "fen": "r6N/4n3/p5Bp/1p1P1p2/3R4/k1Q1P3/P1P3PP/R5K1 b - - 2 25"
+    },
+    {
+      "game": 5,
+      "a_white": true,
+      "result": "1-0",
+      "plies": 29,
+      "a_score": 1.0,
+      "fen": "rnbN1bnr/2Q5/3k1p2/pBpN2p1/3PP3/8/PP1P1PPP/R1B1KR2 b Q - 2 16"
+    },
+    {
+      "game": 6,
+      "a_white": false,
+      "result": "1-0",
+      "plies": 37,
+      "a_score": 0.0,
+      "fen": "r2k1b1r/5N2/2Q1pP2/p1Np3p/3P2pP/2P1B3/PP3PP1/R3KR2 b Q - 0 20"
+    },
+    {
+      "game": 7,
+      "a_white": true,
+      "result": "1-0",
+      "plies": 37,
+      "a_score": 1.0,
+      "fen": "2b2Q2/4k3/n3N3/p1pPNpp1/7p/2P5/PP1P1PPP/R1B1K2R b KQ - 3 20"
+    },
+    {
+      "game": 8,
+      "a_white": false,
+      "result": "1-0",
+      "plies": 59,
+      "a_score": 0.0,
+      "fen": "8/Q7/1kN5/p2P2p1/P7/2NPP2P/1PK2PP1/1RB2R2 b - - 6 31"
+    },
+    {
+      "game": 9,
+      "a_white": true,
+      "result": "1-0",
+      "plies": 55,
+      "a_score": 1.0,
+      "fen": "6QR/5k2/8/p5B1/2Npp1p1/P1PP4/1P3PP1/R3KB2 b Q - 2 29"
+    },
+    {
+      "game": 10,
+      "a_white": false,
+      "result": "1-0",
+      "plies": 37,
+      "a_score": 0.0,
+      "fen": "r1bq3r/4kQ2/2Pp2B1/p3p1p1/3PN2p/b3PN1P/1P3PP1/1RB2RK1 b - - 1 20"
+    },
+    {
+      "game": 11,
+      "a_white": true,
+      "result": "0-1",
+      "plies": 58,
+      "a_score": 0.0,
+      "fen": "3q1rk1/3nppbp/1p6/3p4/1pr2P2/3b4/P4n2/1K2R3 w - - 2 31"
+    },
+    {
+      "game": 12,
+      "a_white": false,
+      "result": "0-1",
+      "plies": 46,
+      "a_score": 1.0,
+      "fen": "Qnkr1b1r/6pp/2p2p2/8/1p1n2PP/5p2/P1bN2q1/R2Q2KR w - - 2 25"
+    },
+    {
+      "game": 13,
+      "a_white": true,
+      "result": "1-0",
+      "plies": 39,
+      "a_score": 1.0,
+      "fen": "r2q1bnr/4k2p/4Q3/pB1P4/Pn4p1/4N2P/1P1P1PP1/RNB1KR2 b Q - 0 20"
+    },
+    {
+      "game": 14,
+      "a_white": false,
+      "result": "1-0",
+      "plies": 19,
+      "a_score": 0.0,
+      "fen": "rnbqk1nr/3p1Q1p/1p6/p1P1Npp1/8/2N1P3/PPP1BPPP/R1B1K2R b KQkq - 1 10"
+    },
+    {
+      "game": 15,
+      "a_white": true,
+      "result": "1-0",
+      "plies": 39,
+      "a_score": 1.0,
+      "fen": "5b1r/2Q5/2k4p/p1p1B1p1/8/2N1P3/PPP1NPbP/3R1RK1 b - - 1 21"
+    },
+    {
+      "game": 16,
+      "a_white": false,
+      "result": "1-0",
+      "plies": 31,
+      "a_score": 0.0,
+      "fen": "r1bqkbnr/3n4/2N3B1/pP1p3p/P2P1B2/1P6/5PPP/R2QK1NR b kq - 0 17"
+    },
+    {
+      "game": 17,
+      "a_white": true,
+      "result": "0-1",
+      "plies": 46,
+      "a_score": 0.0,
+      "fen": "4kb1r/5ppp/1p1r1n2/2p5/Pp2bq1K/N6P/4Pp2/R4B2 w k - 8 25"
+    },
+    {
+      "game": 18,
+      "a_white": false,
+      "result": "1-0",
+      "plies": 55,
+      "a_score": 0.0,
+      "fen": "1R3k2/8/5B2/p1p1NN1p/n1P1P3/P7/3P1PPK/2B2R2 b - - 2 29"
+    },
+    {
+      "game": 19,
+      "a_white": true,
+      "result": "0-1",
+      "plies": 40,
+      "a_score": 0.0,
+      "fen": "rnb1k1nr/7p/1p2P1p1/p1bp2P1/2p5/1qP5/3PNq2/2BK4 w kq - 0 22"
+    },
+    {
+      "game": 20,
+      "a_white": false,
+      "result": "1-0",
+      "plies": 29,
+      "a_score": 0.0,
+      "fen": "Nnb1kbnr/6p1/1B1Q2Bp/p1P1p3/8/5N2/PPP2PPP/R3K2R b KQ - 4 16"
+    },
+    {
+      "game": 21,
+      "a_white": true,
+      "result": "0-1",
+      "plies": 30,
+      "a_score": 0.0,
+      "fen": "rn2kbnr/5ppp/2pp4/P7/2P3PP/4pP2/P1P2q2/RN1Q1K2 w kq - 1 17"
+    },
+    {
+      "game": 22,
+      "a_white": false,
+      "result": "1-0",
+      "plies": 35,
+      "a_score": 0.0,
+      "fen": "r1b3nr/8/p5p1/1pp1Q1Bp/1nP3k1/5N1P/PP2BPP1/2R1K1NR b K - 0 18"
+    },
+    {
+      "game": 23,
+      "a_white": true,
+      "result": "1-0",
+      "plies": 53,
+      "a_score": 1.0,
+      "fen": "3Q4/6kp/5Q2/p5p1/2P1p1B1/2N1P3/P4PPP/R3KR2 b Q - 4 28"
+    },
+    {
+      "game": 24,
+      "a_white": false,
+      "result": "1-0",
+      "plies": 47,
+      "a_score": 0.0,
+      "fen": "r4b1r/8/2b1kQ2/BN3R2/4p1pp/4P3/PP3PPP/3Q1RK1 b - - 2 25"
+    },
+    {
+      "game": 25,
+      "a_white": true,
+      "result": "1-0",
+      "plies": 39,
+      "a_score": 1.0,
+      "fen": "2r1kb1r/3Q1bpp/1qP5/1p3nBP/1p2p3/4P1P1/P4P2/2R1K2R b Kk - 2 21"
+    },
+    {
+      "game": 26,
+      "a_white": false,
+      "result": "1-0",
+      "plies": 51,
+      "a_score": 0.0,
+      "fen": "5Q1N/8/4pk2/3p1pp1/P2P2pP/2P5/3NBP2/R1BQK2R b KQ - 1 27"
+    },
+    {
+      "game": 27,
+      "a_white": true,
+      "result": "0-1",
+      "plies": 34,
+      "a_score": 0.0,
+      "fen": "rnb1kbnr/5ppp/2p5/1pP1pP2/6P1/2p1K2P/P3q3/R1B1q2R w kq - 0 18"
+    },
+    {
+      "game": 28,
+      "a_white": false,
+      "result": "1-0",
+      "plies": 25,
+      "a_score": 0.0,
+      "fen": "r1bqkb1r/2n2Q2/1p1p1P2/p1p3Np/2P5/PN2B2P/1P2PPP1/2R1KB1R b Kkq - 0 14"
+    },
+    {
+      "game": 29,
+      "a_white": true,
+      "result": "1-0",
+      "plies": 43,
+      "a_score": 1.0,
+      "fen": "r4b1r/3Qkp2/n3bN1p/1p6/p1P5/2PB4/PB1P2PP/4RRK1 b - - 6 23"
+    },
+    {
+      "game": 30,
+      "a_white": false,
+      "result": "1-0",
+      "plies": 47,
+      "a_score": 0.0,
+      "fen": "5b2/3Q4/p2kpB2/3pNppp/1P6/2PPPb2/5PPP/R3KB1R b K - 1 25"
+    },
+    {
+      "game": 31,
+      "a_white": true,
+      "result": "1-0",
+      "plies": 47,
+      "a_score": 1.0,
+      "fen": "7r/6Qk/2B4p/p2N1bp1/3B4/5NP1/PPP3PP/2KR1R2 b - - 0 25"
+    },
+    {
+      "game": 32,
+      "a_white": false,
+      "result": "0-1",
+      "plies": 54,
+      "a_score": 1.0,
+      "fen": "1n2kb1r/5pp1/7p/4p3/4b3/1rn1B1PP/4PPB1/3qK3 w k - 2 29"
+    },
+    {
+      "game": 33,
+      "a_white": true,
+      "result": "0-1",
+      "plies": 44,
+      "a_score": 0.0,
+      "fen": "rnb1r1k1/5pPp/2p5/1p6/1p1bp3/4n3/PK2P1N1/R2q1B1q w - - 2 23"
+    },
+    {
+      "game": 34,
+      "a_white": false,
+      "result": "1-0",
+      "plies": 55,
+      "a_score": 0.0,
+      "fen": "2R1Q3/4k3/3b4/1Pp1PBp1/5p1p/1P2P2P/3P2PN/4KR2 b - - 2 29"
+    },
+    {
+      "game": 35,
+      "a_white": true,
+      "result": "1-0",
+      "plies": 27,
+      "a_score": 1.0,
+      "fen": "rnbq1Bnr/5Npp/8/pB1p1p2/4Pk2/2N3P1/PPP2P1P/2RQ1RK1 b - - 0 15"
+    },
+    {
+      "game": 36,
+      "a_white": false,
+      "result": "1-0",
+      "plies": 27,
+      "a_score": 0.0,
+      "fen": "rnbq1k1Q/3p4/pp1P2pp/5P2/7n/1BN1B3/PPP1NPPP/2R1K2R b K - 0 15"
+    },
+    {
+      "game": 37,
+      "a_white": true,
+      "result": "0-1",
+      "plies": 50,
+      "a_score": 0.0,
+      "fen": "2r1kb1r/1b3ppp/4pn1P/2p1n3/p4P2/1NBp4/3P2q1/1Q3R1K w k - 0 26"
+    },
+    {
+      "game": 38,
+      "a_white": false,
+      "result": "1-0",
+      "plies": 41,
+      "a_score": 0.0,
+      "fen": "2r4r/8/B3kQQ1/1pppN2p/8/2P5/PP1N1PPP/1RB1KR2 b - - 0 22"
+    },
+    {
+      "game": 39,
+      "a_white": true,
+      "result": "1-0",
+      "plies": 31,
+      "a_score": 1.0,
+      "fen": "r1bqkb1r/3pn3/1p1N4/pBp1p1p1/P1P1P2p/3QB3/1P3PPP/RN2KR2 b Qkq - 2 17"
+    },
+    {
+      "game": 40,
+      "a_white": false,
+      "result": "1-0",
+      "plies": 63,
+      "a_score": 0.0,
+      "fen": "2r4r/8/4kB1p/p2Q1R1p/P4P2/8/N1P1NR2/7K b - - 4 33"
+    },
+    {
+      "game": 41,
+      "a_white": true,
+      "result": "1-0",
+      "plies": 39,
+      "a_score": 1.0,
+      "fen": "r2kQb1r/3P1p2/2B2P2/p1p2N2/5Bpp/2P5/PP3PPP/RN3RK1 b - - 2 21"
+    },
+    {
+      "game": 42,
+      "a_white": false,
+      "result": "1-0",
+      "plies": 23,
+      "a_score": 0.0,
+      "fen": "rnbq1knN/3p1Q2/2pb4/ppP2pp1/3P4/2NBP3/PP3PPP/R1B1KR2 b Q - 2 13"
+    },
+    {
+      "game": 43,
+      "a_white": true,
+      "result": "1-0",
+      "plies": 67,
+      "a_score": 1.0,
+      "fen": "2k4r/1B6/8/p1N1QpBp/P1RP2p1/8/1P3nPP/4KR2 b - - 4 35"
+    },
+    {
+      "game": 44,
+      "a_white": false,
+      "result": "0-1",
+      "plies": 42,
+      "a_score": 1.0,
+      "fen": "2kr1b1r/p4Ppp/2n3P1/p1pn4/4Kq2/2pP4/1PP5/R5N1 w - - 0 23"
+    },
+    {
+      "game": 45,
+      "a_white": true,
+      "result": "1-0",
+      "plies": 53,
+      "a_score": 1.0,
+      "fen": "7k/8/3N2Q1/p1pNp3/2P5/3PB1P1/PP3PP1/R3K2R b KQ - 0 28"
+    },
+    {
+      "game": 46,
+      "a_white": false,
+      "result": "1-0",
+      "plies": 47,
+      "a_score": 0.0,
+      "fen": "6k1/6Q1/4N3/p1P3Bp/1P6/5N2/PP3PPP/1R2K2R b K - 4 24"
+    },
+    {
+      "game": 47,
+      "a_white": true,
+      "result": "1-0",
+      "plies": 41,
+      "a_score": 1.0,
+      "fen": "3Rk3/7p/5Qp1/2p1PpN1/p4B2/1P3N2/PP3PPP/5RK1 b - - 1 22"
+    },
+    {
+      "game": 48,
+      "a_white": false,
+      "result": "0-1",
+      "plies": 48,
+      "a_score": 1.0,
+      "fen": "2r1kr2/1p2bpp1/2p2n1p/p3p1BP/2bqP1P1/5P2/P1n1K2N/R5NR w - - 8 26"
+    },
+    {
+      "game": 49,
+      "a_white": true,
+      "result": "1-0",
+      "plies": 45,
+      "a_score": 1.0,
+      "fen": "5b1Q/1bQ5/2kP4/p1p2Npp/2P5/n3B3/1P3PPP/R3K2R b KQ - 2 24"
+    },
+    {
+      "game": 50,
+      "a_white": false,
+      "result": "0-1",
+      "plies": 38,
+      "a_score": 1.0,
+      "fen": "1nb1k1nr/5ppp/2p5/1p2P2P/8/1pPq2p1/rP3bP1/2R1K2R w Kk - 2 21"
+    },
+    {
+      "game": 51,
+      "a_white": true,
+      "result": "1-0",
+      "plies": 41,
+      "a_score": 1.0,
+      "fen": "r1b2b1r/8/2n2B1p/p1P1kp1N/P1B1p3/1N5P/1P3PP1/R2QKR2 b Q - 2 22"
+    },
+    {
+      "game": 52,
+      "a_white": false,
+      "result": "0-1",
+      "plies": 58,
+      "a_score": 1.0,
+      "fen": "4k1n1/1b1n2b1/3p4/2pPp1p1/2P3p1/1pq2B2/3KP3/q7 w - - 0 31"
+    },
+    {
+      "game": 53,
+      "a_white": true,
+      "result": "1-0",
+      "plies": 29,
+      "a_score": 1.0,
+      "fen": "r1bq1bnr/3k4/n1Q5/pPp2Npp/8/2PB3P/1P3PP1/RNB1K2R b KQ - 3 16"
+    },
+    {
+      "game": 54,
+      "a_white": false,
+      "result": "0-1",
+      "plies": 56,
+      "a_score": 1.0,
+      "fen": "4kr2/1p3p1p/1p2b1pP/3pp3/3n2n1/5K2/2rP3q/2B3R1 w - - 2 30"
+    },
+    {
+      "game": 55,
+      "a_white": true,
+      "result": "1-0",
+      "plies": 31,
+      "a_score": 1.0,
+      "fen": "rnbq1b2/4kQ2/4pp2/pNPpN1p1/2P1n2p/1P2P2P/PB3PP1/2R1K2R b K - 2 17"
+    },
+    {
+      "game": 56,
+      "a_white": false,
+      "result": "1-0",
+      "plies": 57,
+      "a_score": 0.0,
+      "fen": "1k6/1Q6/1p1N4/pP5B/2N1Pp1p/3P4/R4PPP/2BQ1RK1 b - - 4 30"
+    },
+    {
+      "game": 57,
+      "a_white": true,
+      "result": "0-1",
+      "plies": 36,
+      "a_score": 0.0,
+      "fen": "3rkr2/1p1b1pp1/2npp2p/2np4/3q1PP1/2K5/P1PN4/R1BQ1BN1 w - - 5 20"
+    },
+    {
+      "game": 58,
+      "a_white": false,
+      "result": "1-0",
+      "plies": 41,
+      "a_score": 0.0,
+      "fen": "rn5N/1b1p4/pppPkQ2/5p1B/2PBP3/8/PP1N1PPP/R3KR2 b Q - 0 22"
+    },
+    {
+      "game": 59,
+      "a_white": true,
+      "result": "0-1",
+      "plies": 80,
+      "a_score": 0.0,
+      "fen": "1r3b1r/6pp/4kn2/1Pp1n3/8/8/3K1q2/q7 w - - 2 42"
+    },
+    {
+      "game": 60,
+      "a_white": false,
+      "result": "1-0",
+      "plies": 29,
+      "a_score": 0.0,
+      "fen": "2Q1kb1r/8/4PBpp/ppp5/4Pp2/2P2N2/PP3PPP/1R2KBNR b Kk - 0 16"
+    }
+  ]
+}

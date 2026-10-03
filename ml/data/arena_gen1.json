@@ -1,0 +1,173 @@
+{
+  "games": 20,
+  "a_score": 0.45,
+  "candidate_score": 0.55,
+  "a_wins": 9,
+  "b_wins": 11,
+  "draws": 0,
+  "elo_candidate_minus_current": 34.86007028756008,
+  "weights_a": "weights_init.txt",
+  "weights_b": "weights_gen1.txt",
+  "results": [
+    {
+      "game": 1,
+      "a_white": true,
+      "result": "1-0",
+      "plies": 29,
+      "a_score": 1.0,
+      "fen": "rnbN1bnr/2Q5/3k1p2/pBpN2p1/3PP3/8/PP1P1PPP/R1B1KR2 b Q - 2 16"
+    },
+    {
+      "game": 2,
+      "a_white": false,
+      "result": "1-0",
+      "plies": 59,
+      "a_score": 0.0,
+      "fen": "8/Q7/1kN5/p2P2p1/P7/2NPP2P/1PK2PP1/1RB2R2 b - - 6 31"
+    },
+    {
+      "game": 3,
+      "a_white": true,
+      "result": "1-0",
+      "plies": 37,
+      "a_score": 1.0,
+      "fen": "2b2Q2/4k3/n3N3/p1pPNpp1/7p/2P5/PP1P1PPP/R1B1K2R b KQ - 3 20"
+    },
+    {
+      "game": 4,
+      "a_white": false,
+      "result": "1-0",
+      "plies": 41,
+      "a_score": 0.0,
+      "fen": "r3k3/3nQ2p/8/p3p1B1/p1p3p1/3Pp3/1P1NPPPP/3RKBR1 b q - 0 22"
+    },
+    {
+      "game": 5,
+      "a_white": true,
+      "result": "0-1",
+      "plies": 56,
+      "a_score": 0.0,
+      "fen": "3r2k1/1b1r1pbp/2p4p/p7/p4p2/4nP2/1PPpK1q1/1RBQ3R w - - 4 30"
+    },
+    {
+      "game": 6,
+      "a_white": false,
+      "result": "1-0",
+      "plies": 31,
+      "a_score": 0.0,
+      "fen": "r1bqkbnr/3n4/2N3B1/pP1p3p/P2P1B2/1P6/5PPP/R2QK1NR b kq - 0 17"
+    },
+    {
+      "game": 7,
+      "a_white": true,
+      "result": "1-0",
+      "plies": 37,
+      "a_score": 1.0,
+      "fen": "r2q1bnr/4k2p/4Q3/pB1P4/Pn4p1/4N2P/1P1P1PP1/RNB1KR2 b Q - 0 20"
+    },
+    {
+      "game": 8,
+      "a_white": false,
+      "result": "1-0",
+      "plies": 47,
+      "a_score": 0.0,
+      "fen": "7r/r3B3/6N1/3P1p2/p1B1k1pP/2P3P1/P2PQ3/RN3RK1 b - - 3 25"
+    },
+    {
+      "game": 9,
+      "a_white": true,
+      "result": "0-1",
+      "plies": 58,
+      "a_score": 0.0,
+      "fen": "3q1rk1/3nppbp/1p6/3p4/1pr2P2/3b4/P4n2/1K2R3 w - - 2 31"
+    },
+    {
+      "game": 10,
+      "a_white": false,
+      "result": "1-0",
+      "plies": 21,
+      "a_score": 0.0,
+      "fen": "rn1q2nr/p4Q1p/2pkp3/Ppbp1pp1/2NPbB2/2P1P3/1P1N1PPP/R3KB1R b KQ - 5 12"
+    },
+    {
+      "game": 11,
+      "a_white": true,
+      "result": "1-0",
+      "plies": 39,
+      "a_score": 1.0,
+      "fen": "2r1kb1r/3Q1bpp/1qP5/1p3nBP/1p2p3/4P1P1/P4P2/2R1K2R b Kk - 2 21"
+    },
+    {
+      "game": 12,
+      "a_white": false,
+      "result": "1-0",
+      "plies": 55,
+      "a_score": 0.0,
+      "fen": "4k3/8/p1Bp1Q2/2p1N1p1/P1P5/1p6/1P1P1PPr/R1B1R1K1 b - - 0 29"
+    },
+    {
+      "game": 13,
+      "a_white": true,
+      "result": "1-0",
+      "plies": 55,
+      "a_score": 1.0,
+      "fen": "3k3R/8/1P3N2/3BpN2/4P1pp/B1P5/2P2PPP/5RK1 b - - 1 29"
+    },
+    {
+      "game": 14,
+      "a_white": false,
+      "result": "1-0",
+      "plies": 51,
+      "a_score": 0.0,
+      "fen": "5Q1N/8/4pk2/3p1pp1/P2P2pP/2P5/3NBP2/R1BQK2R b KQ - 1 27"
+    },
+    {
+      "game": 15,
+      "a_white": true,
+      "result": "1-0",
+      "plies": 51,
+      "a_score": 1.0,
+      "fen": "r2k1b2/3Q4/p4N1p/1p1p1P2/2pP4/2N5/PPP2PPP/R4RK1 b - - 0 27"
+    },
+    {
+      "game": 16,
+      "a_white": false,
+      "result": "0-1",
+      "plies": 38,
+      "a_score": 1.0,
+      "fen": "rn2k1nr/3p2pp/8/p2bb2P/P1pP4/3qp1P1/1PK5/R1B5 w kq - 1 21"
+    },
+    {
+      "game": 17,
+      "a_white": true,
+      "result": "1-0",
+      "plies": 47,
+      "a_score": 1.0,
+      "fen": "7r/6Qk/2B4p/p2N1bp1/3B4/5NP1/PPP3PP/2KR1R2 b - - 0 25"
+    },
+    {
+      "game": 18,
+      "a_white": false,
+      "result": "0-1",
+      "plies": 44,
+      "a_score": 1.0,
+      "fen": "rn2n1k1/3b2pp/p1p1p1PP/1p6/B2Pp3/2b1P3/PPP1K2q/R1B4r w - - 2 24"
+    },
+    {
+      "game": 19,
+      "a_white": true,
+      "result": "0-1",
+      "plies": 68,
+      "a_score": 0.0,
+      "fen": "1n2kb1r/8/8/4p1n1/3p4/3P1PpP/1q2K1P1/6r1 w k - 1 35"
+    },
+    {
+      "game": 20,
+      "a_white": false,
+      "result": "1-0",
+      "plies": 39,
+      "a_score": 0.0,
+      "fen": "5k1Q/3pR3/3P4/qp3p2/1BP3pp/4P3/1P2NPPP/4KB1R b K - 0 21"
+    }
+  ]
+}

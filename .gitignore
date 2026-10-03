@@ -1,0 +1,14 @@
+# Build artifacts
+*.exe
+*.o
+*.obj
+*.pyc
+__pycache__/
+build/
+
+# Generated ML artefacts (datasets, logs and trained weights stay local)
+ml/data/*.log
+ml/data/*.err
+ml/weights_demo.txt
+ml/weights_current.txt
+ml/weights_gen*.txt
